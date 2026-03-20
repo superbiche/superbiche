@@ -1,39 +1,43 @@
-# Michel Tomas
+# I deliver. Fine-tuned.
 
-**Freelance CTO & Cloud Architect**
+Full-stack engineer & AI practitioner. 16 years shipping to production.
 
-I solve the technical problems your team doesn't have the time or expertise to tackle. 13 years helping startups and SMBs with technical architecture, complex migrations, and engineering best practices.
-
-## Stack
-
-**Backend**: Laravel · PHP 8.4 · Node.js · TypeScript · Temporal · Kafka  
-**Frontend**: Vue.js · Nuxt · Inertia.js · Tailwind CSS  
-**Infra**: Kubernetes · Docker · GitLab CI · Prometheus · Grafana · Sentry · Jaeger  
-**Data**: PostgreSQL · Elasticsearch · Meilisearch · Redis
+Architecture → code → deployment → AI → automation.
+One person. Zero middlemen. Own GPU infrastructure.
 
 ## What I do
 
-- **Fractional CTO** — technical leadership, architecture decisions, engineering practices. 8 years of continuous engagement with the same client.
-- **Cloud Architect** — highly available Kubernetes clusters, bare-metal/Swarm to K8s migrations, infrastructure cost-killing (÷15 on a cloud cost line item).
-- **Senior Developer** — hands-on with code and infra. Migrations from Laravel 7→12, PHP 7.4→8.4, monoliths to micro-services.
-- **AI Integration** — automated code review, productivity tooling, AI workflows in CI/CD pipelines.
+- **Full-stack delivery**: Laravel, Vue.js/Nuxt, TypeScript, Kubernetes. From first line to `kubectl apply`.
+- **AI integration**: Fine-tuning models for business domains. RAG, agents, chatbots. Not ChatGPT with a logo on it.
+- **Automation**: n8n workflows, Temporal orchestration, CI/CD pipelines.
+- **Infrastructure**: 10 GPUs / 240 GB VRAM under Kubernetes. Local inference + fine-tuning. Cloud when it makes sense.
+
+## Results
+
+| Metric | Value |
+|--------|-------|
+| Image serving costs | **-85%** |
+| Kubernetes cluster costs | **-40%** |
+| Deliverables (same budget) | **3x** |
+| Longest client relationship | **8 years** |
+
+## Stack
+
+**Production**: Laravel · Vue.js · Nuxt · TypeScript · PostgreSQL · Elasticsearch · Redis · Meilisearch
+
+**Infrastructure & AI**: Kubernetes · Docker · Temporal · Kafka · GitLab CI · vLLM · Ollama · Prometheus · Grafana
 
 ## Open Source
 
 <!-- BEGIN_OSS -->
-*Projects coming soon — stay tuned.*
+Projects coming soon.
 <!-- END_OSS -->
 
-## Contributions
-
-Contributor to Laravel, Vue/Nuxt, Drupal, and Uptime Kuma.
+Contributions: Laravel, Vue/Nuxt, Uptime Kuma.
 
 ## Contact
 
-- **Email**: michel@superbiche.me
-- **LinkedIn**: [linkedin.com/in/micheltomas](https://www.linkedin.com/in/micheltomas)
-- **Malt**: [malt.fr/profile/micheltomas](https://www.malt.fr/profile/micheltomas)
-
----
-
-*Available for new engagements — technical audits, fractional CTO, expert reinforcement.*
+- **Web**: [tsbwc.com](https://www.tsbwc.com)
+- **Email**: contact@tsbwc.com
+- **LinkedIn**: [micheltomas](https://www.linkedin.com/in/micheltomas/)
+- **Malt**: [micheltomas](https://www.malt.fr/profile/micheltomas)
