@@ -10,7 +10,7 @@ One person. Zero middlemen. Own GPU infrastructure.
 - **Full-stack delivery**: Laravel, Vue.js/Nuxt, TypeScript, Kubernetes. From first line to `kubectl apply`.
 - **AI integration**: Fine-tuning models for business domains. RAG, agents, chatbots. Not ChatGPT with a logo on it.
 - **Automation**: n8n workflows, Temporal orchestration, CI/CD pipelines.
-- **Infrastructure**: 10 GPUs / 240 GB VRAM under Kubernetes. Local inference + fine-tuning. Cloud when it makes sense.
+- **Infrastructure**: 10 GPUs / 240 GB VRAM under Kubernetes / llama-server. Local inference + fine-tuning. Cloud when it makes sense.
 
 ## Results
 
@@ -25,7 +25,7 @@ One person. Zero middlemen. Own GPU infrastructure.
 
 **Production**: Laravel · Vue.js · Nuxt · TypeScript · PostgreSQL · Elasticsearch · Redis · Meilisearch
 
-**Infrastructure & AI**: Kubernetes · Docker · Temporal · Kafka · GitLab CI · vLLM · Ollama · Prometheus · Grafana
+**Infrastructure & AI**: Kubernetes · Docker · Temporal · Kafka · GitLab CI · vLLM · Llama.cpp · Prometheus Stack · VictoriaMetrics Stack
 
 ## Open Source
 
@@ -33,7 +33,7 @@ One person. Zero middlemen. Own GPU infrastructure.
 Projects coming soon.
 <!-- END_OSS -->
 
-Contributions: Laravel, Vue/Nuxt, Uptime Kuma.
+Contributions: Laravel & Ecosystem, Vue/Nuxt Ecosystem, Paperclip, Uptime Kuma.
 
 ## Contact
 
