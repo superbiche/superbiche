@@ -14,6 +14,8 @@ Building the client-context layer of AgentRH, an HR copilot inside Microsoft Tea
 
 <!-- BEGIN_OSS -->
 **[Memoire](https://github.com/superbiche/memoire)**: local-first governed memory for AI coding agents. Capture and retrieve context across coding tools in a store you own. AGPL-3.0.
+
+**[Safe](https://github.com/superbiche/safe)**: tooling for safer package execution, dependency auditing and guarded installs. MIT.
 <!-- END_OSS -->
 
 Contributions: Laravel & Ecosystem, Vue/Nuxt Ecosystem, Paperclip, Uptime Kuma.
