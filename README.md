@@ -8,6 +8,7 @@ I mostly contribute upstream: small, scoped fixes with tests, and design issues 
 
 <!-- BEGIN_OSS -->
 - **[Safe](https://github.com/superbiche/safe)**: zero-trust Bash toolkit for safer package execution, dependency auditing and guarded installs. MIT.
+- **[Marque](https://github.com/superbiche/marque)**: fast native markdown viewer for Linux (Tauri, React, markdown-it) with folder workspaces, Cmd+K search, Mermaid and KaTeX. Hard fork of marky, maintained independently. Apache-2.0.
 - **Paperclip plugins**, co-maintained with [@mvanhorn](https://github.com/mvanhorn): [Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram), [Slack](https://github.com/mvanhorn/paperclip-plugin-slack), [Discord](https://github.com/mvanhorn/paperclip-plugin-discord) and [ACP](https://github.com/mvanhorn/paperclip-plugin-acp). Releases, reviews and the move to company-scoped configuration for Paperclip v2026.720+.
 <!-- END_OSS -->
 
